@@ -16,6 +16,6 @@ WiiU:
 
 使用方法：
 
-WiiU用户可以用kavid的汉化脚本打包游戏，只需将他的汉化文件替换成我的，并打完后把脚本的0005000e改成00050000再打一次。（第一次修改升级档，第二次修改游戏本体）。详见https://www.tekqart.com/thread-80884-1-3.html。字库安装请参考小五不是憨憨的帖子。
+WiiU用户可以用kavid的汉化脚本打包游戏，只需将他的汉化文件替换成我的，并打完后把脚本的0005000e改成00050000再打一次。（第一次修改升级档，第二次修改游戏本体）。详见https://www.tekqart.com/thread-80884-1-3.html 。字库安装请参考小五不是憨憨的帖子。
 
 CEMU用户可以直接把补丁覆盖进Loadiine格式的游戏更新档里，也可以把补丁放在Cemu\graphicPacks\downloadedGraphicPacks\Mario Kart 8\Mods\Tencent Mod，并在选项-图形插件里加载。字库CafeStd.ttf请放在Cemu\mlc01\sys\title\0005001b\10042400\content里
