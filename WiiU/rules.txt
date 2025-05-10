@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 000500001010ec00,000500001010ed00,000500001010eb00
+name = Tencent Mod
+path = "Mario Kart 8/Mods/Tencent Mod"
+description = Official Chinese
+version = 6
